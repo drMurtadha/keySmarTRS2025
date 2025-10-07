@@ -82,3 +82,5 @@ The framework concludes with design guidelines for AI-enabled monitoring systems
 3.  **Sustainable:** Predictive modeling supports evidence-based conservation policies, enhances resource allocation, and leads to timely interventions, contributing to the **sustainable preservation** of cultural heritage sites. Proactive decisions reduce the need for costly and extensive repairs, increasing economic sustainability.
 
 **Final Thought:** By linking robust data pipelines, reliable AI, and actionable rules, we can drive the future with intelligent and resilient technologies.
+
+![System Diagram](images/NotebookLM_Mind_Map.png)
